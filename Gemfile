@@ -6,8 +6,7 @@ gem 'rails-api'
 
 gem 'spring', :group => :development
 
-gem "pg", "~> 0.17.1", group: :production
-gem 'sqlite3',         group: :development
+gem "pg", "~> 0.17.1"
 
 gem 'active_model_serializers', '~> 0.8.1'
 
